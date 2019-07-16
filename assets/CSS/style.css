@@ -1,0 +1,12 @@
+.navbar-dark .navbar-text {
+    color: red;
+    font-size: 25pt;
+    font-weight: bolder
+}
+body {
+    background: url(../images/furley_bg.png);
+}
+.row {
+    margin-top: 50px;
+}
+

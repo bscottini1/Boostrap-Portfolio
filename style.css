@@ -6,4 +6,15 @@
 }
 .col2 {
     word-wrap: break-word
+    
+}
+
+img {
+    float: left;
+    padding-right: 10px;
+}
+
+body {
+    color: darkblue;
+    font-size: 16pt;
 }

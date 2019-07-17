@@ -17,4 +17,20 @@ img {
 body {
     color: darkblue;
     font-size: 16pt;
+    
+}
+container {
+    margin-top: 20px;
+}
+body {
+    background: url(./assets/images/furley_bg.png);
+}
+
+.row {
+    margin-left: 15px;
+   
+}
+
+.containerPort{
+    text-align: center;
 }

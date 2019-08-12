@@ -10,8 +10,10 @@
 }
 
 img {
-    float: left;
-    padding-right: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
 }
 
 body {
@@ -41,3 +43,39 @@ form {
     margin-top: 30px;
     
 }
+
+h1 {
+    text-align: center;
+    color:red;
+}
+
+p {
+    text-align: center;
+    color: darkblue;
+    font-weight: 400;
+    font-size: 16pt;
+}
+
+h2 {
+    text-align: center;
+    color: red;
+}
+
+#links {
+    text-align: center;
+    color: red;
+    font-size: 16pt;
+}
+
+a {
+    color: darkblue;
+
+}
+@media only screen and (max-width: 1200px) {
+    .mx-auto {
+    column-width: 100%;
+    height: auto;
+    margin-bottom: 50px;
+    
+    }
+  }

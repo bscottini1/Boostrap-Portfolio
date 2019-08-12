@@ -73,9 +73,10 @@ a {
 }
 @media only screen and (max-width: 1200px) {
     .mx-auto {
-    column-width: 100%;
-    height: auto;
-    margin-bottom: 50px;
+        column-width: 100%;
+        height: auto;
+        margin-bottom: 50px;
     
     }
-  }
+}
+

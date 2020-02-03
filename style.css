@@ -55,6 +55,7 @@ p {
     color: darkblue;
     font-weight: 400;
     font-size: 16pt;
+    padding-right: inherit;
 }
 
 h2 {
